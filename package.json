@@ -1,0 +1,26 @@
+{
+  "name": "logo-maker",
+  "version": "1.0.0",
+  "description": "A backend logo maker",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/nardgie.git"
+  },
+  "author": "Nardgelen Jean Francois",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github.com/nardgie/issues"
+  },
+  "homepage": "https://github.com/github.com/nardgie#readme",
+  "dependencies": {
+    "inquirer": "^8.2.6",
+    "svg": "^0.1.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
