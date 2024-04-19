@@ -42,13 +42,14 @@ class Triangle extends Shape {
  }
 }
 
+// Change class square to rectangle + change in inquirer prompt
 class Square extends Shape {
  constructor(fillColor, textColor, text) {
     super(fillColor, textColor, text);
  }
 
  generateSVG() {
-    return `<svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/20000/svg">
+    return `<svg version="1.1" width="300" height="300" xmlns="http://www.w3.org/20000/svg">
     <rect x="50" y="50" width="200" height="100" fill="${this.fillColor}" />
     <text x="150" y="125" font-size="60" text-anchor="middle" fill="${this.textColor}">${this.text}</text>
     </svg>`

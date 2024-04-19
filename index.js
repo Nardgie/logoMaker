@@ -59,3 +59,4 @@ inquirer.prompt(questions).then((answers) => {
     console.log("Generated logo.svg");
   });
 });
+
