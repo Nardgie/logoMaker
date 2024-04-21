@@ -1,6 +1,7 @@
-// const jest = require('jest');
+// Description: Test for shapes.js
 const { Circle, Triangle, Square } = require('../shapes');
 
+// Testing .generateSVG() method in liu of .render() method
 describe('Circle', () => {
     it('should return a circle SVG', () => {
         const circle = new Circle('red', 'blue', 'Car');
