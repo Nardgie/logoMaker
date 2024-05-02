@@ -19,7 +19,7 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository**:
 
-[link to repository](https://github.com/github.com/nardgie/logo-maker.git)
+[link to repository](https://github.com/Nardgie/logoMaker)
 
 2. **Install Dependencies**
 
