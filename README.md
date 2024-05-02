@@ -1,8 +1,8 @@
-# logoMaker
+# logo Maker
 
 ## Description
 
-The `logoMaker` is a Node.js command-line application that allows users to generate customized logos in SVG format. This tool offers a simple interface for users to specify the text, colors, and shapes of their logos, enabling rapid creation of logos for various projects. This application was created to explore SVG creation and to refine CLI application development skills. It addresses the need for a straightforward, customizable logo creation tool.
+The `logo Maker` is a Node.js command-line application that allows users to generate customized logos in SVG format. This tool offers a simple interface for users to specify the text, colors, and shapes of their logos, enabling rapid creation of logos for various projects. This application was created to explore SVG creation and to refine CLI application development skills. It addresses the need for a straightforward, customizable logo creation tool.
 
 ## Table of Contents
 
